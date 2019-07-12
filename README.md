@@ -1,7 +1,8 @@
 # 2019-iflytek-competition-Alzheimer-s-disease-prediction
 2019科大讯飞 阿尔茨海默综合症预测挑战赛baseline  
 赛题地址：http://challenge.xfyun.cn/2019/gamedetail?type=detail/alzheimer  
-线上分数77+
+线上分数77+  
+注意：初赛期间就总共5次提交机会，提交请慎重！！！
 # 任务  
 简单地说，根据老人的音频和文本（也就是说话内容），预测该老人属于哪种情况（CTRL：健康；MCI：轻度认知障碍
 ；AD：可能是阿尔茨海默综合症或其他种类的痴呆症）  
