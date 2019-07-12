@@ -11,7 +11,7 @@
 no	数据的行号，一行为一句话
 start_time	一句话的开始时刻
 end_time	一句话的结束时刻
-speaker	说话人，其中<A>为主试，\<B\>为被试，sil，\<DEAF\>，\<NOISE\>都代表没有人说话
+speaker	说话人，其中\<A\>为主试，\<B\>为被试，sil，\<DEAF\>，\<NOISE\>都代表没有人说话
 value	说话的内容  
 
 字段名  | 中文解释 
@@ -19,7 +19,7 @@ value	说话的内容
 no	 |数据的行号，一行为一句话
 start_time	|一句话的开始时刻
 end_time	|一句话的结束时刻
-speaker	|说话人，其中<A>为主试，<B>为被试，sil，<DEAF>，<NOISE>都代表没有人说话
+speaker	|说话人，其中\<A\>为主试，\<B\>为被试，sil，\<DEAF\>，\<NOISE\>都代表没有人说话
 value	|说话的内容 
 
 ## 2、音频特征  
