@@ -19,6 +19,6 @@ value	|说话的内容
 ## 2、音频特征  
 包括两部分。一个是帧级别的Low-level descriptors (LLD)，即egemaps文件夹下面的文件，每个文件对应一个老人；一个是整个音频文件的统计量，即egemaps_pre.csv文件,每一行对应一个老人
 
-注：该题官方给baseline，包括两个文件feature.py(特征提取部分)和train_predict.py（训练和预测部分）
+注：该题官方给baseline，即code文件夹下面的两个文件feature.py(特征提取部分)和train_predict.py（训练和预测部分），我没有跑出来，感兴趣的可以试试
 # Todo  
 挖掘特征,比如文本特征这个表，baseline只提取了说话时长，其他的特征还没有提取......
